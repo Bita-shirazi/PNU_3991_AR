@@ -2,6 +2,6 @@
 ---------
 # بیتا شیرازی
 - [GitHub](https://github.com/Bita-shirazi)
-- [Resume](https://bitashirazi.github.io) 
+- [Resume](https://bita-shirazi.github.io/) 
 - [SOP](https://bita-shirazi.github.io/SOP-1/)
 ----------------

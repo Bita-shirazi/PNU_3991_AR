@@ -5,6 +5,7 @@
 - [GitHub](https://github.com/Bita-shirazi)
 - [Resume](https://bita-shirazi.github.io/resume/) 
 - [SOP](https://bita-shirazi.github.io/SOP-1/)
+-[Javascript Certification](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/JavaScript_certificate.jpg)
 ----------------
 ## گروه ها
 

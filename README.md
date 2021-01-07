@@ -7,6 +7,7 @@
 - [SOP](https://bita-shirazi.github.io/SOP-1/)
 - [Javascript Certification](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/JavaScript_certificate.jpg)
 - [jlord-patchwork](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/IMG_20201227_230729.png?raw=true)
+- [latex](https://github.com/Bita-shirazi/PNU_3991_AR/tree/main/Latex)
 ----------------
 ## گروه ها
 

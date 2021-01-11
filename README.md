@@ -10,18 +10,18 @@
 ----------------
 ## بخش عمومی
 ---------
-1.ارزیابی رزومه و انگیزه نامه(https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/General/BS_CV_CheckList_AR_3991.pdf)
-2.خلاصه ارزیابی فعالیت های مشترک(https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/General/BS_GeneralSection_CheckList_AR_3991.pdf)
-3. ارزیابی درس روش پژوهش و ارائه(https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/General/BS_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+1.[ارزیابی رزومه و انگیزه نامه](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/General/BS_CV_CheckList_AR_3991.pdf)
+2.[خلاصه ارزیابی فعالیت های مشترک](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/General/BS_GeneralSection_CheckList_AR_3991.pdf)
+3. [ارزیابی درس روش پژوهش و ارائه](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/General/BS_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 ----------------
 
 ## فعالیت گروهی
 ---------
-1. معرفی یک درس مشابه در دانشگاه های دیگر(https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
-2.  مقاله پایان نامه(https://conservancy.umn.edu/handle/11299/182784)
-3. ارائه کتبی لاتک(https://github.com/Bita-shirazi/PNU_3991_AR/tree/main/Latex)
-4. ارائه شفاهی لاتک(https://drive.google.com/file/d/19MOQPcs8GovUzQi0d4RlbLNfdQUarfYU/view?usp=drivesdk)
-5. بیمر لاتک (https://github.com/Bita-shirazi/PNU_3991_AR/tree/main/beamer)
+1. [معرفی یک درس مشابه در دانشگاه های دیگر](https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
+2.  [مقاله پایان نامه](https://conservancy.umn.edu/handle/11299/182784)
+3. [ارائه کتبی لاتک](https://github.com/Bita-shirazi/PNU_3991_AR/tree/main/Latex)
+4. [ارائه شفاهی لاتک](https://drive.google.com/file/d/19MOQPcs8GovUzQi0d4RlbLNfdQUarfYU/view?usp=drivesdk)
+5. [بیمر لاتک](https://github.com/Bita-shirazi/PNU_3991_AR/tree/main/beamer)
 ----------------
 ## گروه ها
 

@@ -11,8 +11,6 @@
 - [beamer](https://github.com/Bita-shirazi/PNU_3991_AR/tree/main/beamer)
 - [دروس مشابه](https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
 - [مقاله پایان نامه](https://conservancy.umn.edu/handle/11299/182784)
-- [evaluation sop and resume](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
-- [evaluate joint actuvity](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
 ----------------
 ## گروه ها
 

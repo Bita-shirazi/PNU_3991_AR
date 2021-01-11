@@ -10,9 +10,9 @@
 ----------------
 ## بخش عمومی
 ---------
-1.[ارزیابی رزومه و انگیزه نامه](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/General/BS_CV_CheckList_AR_3991.pdf)
-2.[خلاصه ارزیابی فعالیت های مشترک](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/General/BS_GeneralSection_CheckList_AR_3991.pdf)
-3. [ارزیابی درس روش پژوهش و ارائه](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/General/BS_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/General/BS_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی فعالیت های مشترک](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/General/BS_GeneralSection_CheckList_AR_3991.pdf)
+- [ارزیابی درس روش پژوهش و ارائه](https://github.com/Bita-shirazi/PNU_3991_AR/blob/main/General/BS_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 ----------------
 
 ## فعالیت گروهی
